@@ -1,0 +1,1 @@
+# kubebuiler-code-generator-scaffold
